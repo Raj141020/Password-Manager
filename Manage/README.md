@@ -17,19 +17,20 @@ Retrieving Passwords:
 
 You can retrieve a password by providing the website. The password manager retrieves the corresponding username and password for that website.
 If the website is not found, it notifies you that no password exists.
-Viewing All Passwords:
 
+Viewing All Passwords:
 You can choose to view all stored passwords. The password manager displays a list of websites along with their corresponding usernames and passwords.
 Security Considerations:
 
 Encryption: Passwords are encrypted using the cryptography library, making them unreadable to anyone without the encryption key.
 File Storage: The passwords are stored in an encrypted file, ensuring they remain confidential even if the file is accessed directly.
-Usage:
 
-Run the program: Execute the Python script password_manager.py.
-Menu Options: Choose to add a password, retrieve a password, or view all passwords.
-Follow the prompts: Enter the required information as requested by the program.
-Manage your passwords: Add, retrieve, and view passwords as needed.
+1.Run the program: Execute the Python script password_manager.py.
+
+2.Menu Options: Choose to add a password, retrieve a password, or view all passwords.
+
+3.Follow the prompts: Enter the required information as requested by the program.
+
+4.Manage your passwords: Add, retrieve, and view passwords as needed.
+
 Note: This project is a basic implementation for learning purposes. In a real-world scenario, additional security measures and more sophisticated storage mechanisms would be necessary.
-
-Feel free to explore and modify the project to add more features or tailor it to your specific needs.
